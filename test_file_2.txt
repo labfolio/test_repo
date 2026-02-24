@@ -1,2 +1,2 @@
 a test file
-added another line
+change a line
